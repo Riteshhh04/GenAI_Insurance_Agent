@@ -44,6 +44,10 @@ An intelligent Streamlit-based web application that helps users:
 ```
 
 ---
+🚀 **Live Demo**  
+Check out the deployed app here: [Smart Insurance Advisor (Streamlit)](https://d2fdubtwe5uzkphxaukzsz.streamlit.app/)
+
+---
 
 ## 🛠️ Setup Guide
 
