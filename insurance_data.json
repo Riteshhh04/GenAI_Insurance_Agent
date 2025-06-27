@@ -1,0 +1,121 @@
+[
+  {
+    "type": "Term Insurance",
+    "age_range": [18, 40],
+    "income_range": [200000, 1000000],
+    "coverage": "Rs.50L",
+    "description": "Protects your family financially in case of your death."
+  },
+  {
+    "type": "Health Insurance",
+    "age_range": [18, 60],
+    "income_range": [300000, 1500000],
+    "coverage": "Rs.5L",
+    "description": "Covers hospitalization and medical expenses."
+  },
+  {
+    "type": "Retirement Plan",
+    "age_range": [35, 60],
+    "income_range": [600000, 2000000],
+    "coverage": "Future Pension",
+    "description": "Helps save for retirement through small investments."
+  },
+  {
+    "type": "Child Education Plan",
+    "age_range": [25, 45],
+    "income_range": [400000, 1800000],
+    "coverage": "Rs.10L Education Support",
+    "description": "Saves funds for your child’s education."
+  },
+  {
+    "type": "ULIP (Unit Linked Insurance Plan)",
+    "age_range": [20, 50],
+    "income_range": [500000, 2500000],
+    "coverage": "Rs.25L + Investment Return",
+    "description": "Combines investment and insurance in one plan."
+  },
+  {
+    "type": "Motor Insurance",
+    "age_range": [18, 65],
+    "income_range": [150000, 2000000],
+    "coverage": "Damage & Third-party Cover",
+    "description": "Covers vehicle damages and third-party liabilities."
+  },
+  {
+    "type": "Home Insurance",
+    "age_range": [25, 60],
+    "income_range": [600000, 3000000],
+    "coverage": "Rs.50L Property Cover",
+    "description": "Covers damage to your home due to natural disasters, fire, etc."
+  },
+  {
+    "type": "Travel Insurance",
+    "age_range": [18, 70],
+    "income_range": [250000, 2000000],
+    "coverage": "Rs.10L Trip Protection",
+    "description": "Covers medical emergencies, trip delays, and lost luggage."
+  },
+  {
+    "type": "Personal Accident Insurance",
+    "age_range": [18, 65],
+    "income_range": [200000, 1500000],
+    "coverage": "Rs.20L Accident Cover",
+    "description": "Provides compensation in case of accidental injuries or death."
+  },
+  {
+    "type": "Critical Illness Insurance",
+    "age_range": [25, 55],
+    "income_range": [400000, 1800000],
+    "coverage": "Rs.15L Illness Cover",
+    "description": "Covers life-threatening illnesses like cancer, heart attack, etc."
+  },
+  {
+    "type": "Whole Life Insurance",
+    "age_range": [25, 55],
+    "income_range": [400000, 2500000],
+    "coverage": "Rs.20L to Rs.1Cr (till age 99)",
+    "description": "Lifelong insurance coverage with cash value benefits."
+  },
+  {
+    "type": "Endowment Policy",
+    "age_range": [20, 50],
+    "income_range": [300000, 1500000],
+    "coverage": "Rs.10L to Rs.30L (with maturity benefit)",
+    "description": "Offers both savings and insurance; pays at maturity or on death."
+  },
+  {
+    "type": "Group Insurance",
+    "age_range": [18, 65],
+    "income_range": [200000, 1000000],
+    "coverage": "Rs.5L to Rs.20L",
+    "description": "Offered by employers to employees as a collective insurance policy."
+  },
+  {
+    "type": "Crop Insurance",
+    "age_range": [18, 70],
+    "income_range": [100000, 1000000],
+    "coverage": "Rs.1L to Rs.10L",
+    "description": "Protects farmers against crop loss due to natural disasters."
+  },
+  {
+    "type": "Pet Insurance",
+    "age_range": [18, 60],
+    "income_range": [300000, 2000000],
+    "coverage": "Rs.50K to Rs.2L",
+    "description": "Covers veterinary costs and accidents for pets."
+  },
+  {
+    "type": "Marine Insurance",
+    "age_range": [25, 65],
+    "income_range": [500000, 5000000],
+    "coverage": "As per shipment value",
+    "description": "Covers loss or damage of cargo during transit over sea or air."
+  },
+  {
+    "type": "Fire Insurance",
+    "age_range": [25, 65],
+    "income_range": [500000, 3000000],
+    "coverage": "Rs.5L to Rs.2Cr",
+    "description": "Covers property against fire damage, explosion, lightning, etc."
+  }
+]
