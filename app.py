@@ -219,6 +219,8 @@ elif page == "fraud":
                             st.markdown(", ".join(highlighted))
                         else:
                             st.write("No top suspicious words found in the visible document.")
+
+    # 📝 Claim Filing Guide Below
     # 📝 Claim Filing Guide Below
 st.markdown("---")
 st.header("📄 Claim Filing Guide")
